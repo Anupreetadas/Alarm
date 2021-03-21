@@ -6,8 +6,8 @@
 - Finally,at the given time the alarm rings.
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture%201.PNG" width="30%" align="left" >
-<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture%202.PNG" width="30%" align="right" >
+<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture1.PNG" width="30%" align="left" >
+<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture2.PNG" width="30%" align="right" >
 
 
 
