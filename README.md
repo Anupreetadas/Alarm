@@ -4,8 +4,8 @@
 in order to compute the simlilarity between on two text documents, the textual raw data is transformed into vectors => arrays of numbers and then from that we are going to use a basic knowledge vector to compute the the similarity between them.
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture1.PNG" width="30%" align="left" >
-<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture2.PNG" width="30%" align="right" >
+<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture1.PNG" width="100%" align="left" >
+<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture2.PNG" width="100%" align="right" >
 
 
 
