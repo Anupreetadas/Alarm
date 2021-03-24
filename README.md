@@ -5,7 +5,7 @@ in order to compute the simlilarity between on two text documents, the textual r
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture1.PNG" width="50%" align="left" >
-<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture2.PNG" width="50%" align="right" >
+<img src="https://raw.githubusercontent.com/Anupreetadas/Alarm/main/assets/Capture2.PNG" width="50%" align="left" >
 
 
 
